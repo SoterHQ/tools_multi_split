@@ -1,6 +1,14 @@
 {
-    "program": "tools_multi_split_v0.aleo",
-    "version": "0.0.0",
-    "description": "",
-    "license": "MIT"
+  "program": "tools_multi_split_v1.aleo",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "dependencies": [
+    {
+      "name": "credits.aleo",
+      "location": "network",
+      "network": "testnet",
+      "path": null
+    }
+  ]
 }
